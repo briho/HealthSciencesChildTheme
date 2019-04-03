@@ -4,5 +4,5 @@
 
 <locale name="en_US" full_name="U.S. English">
 	<message key="plugins.themes.healthsciences-child.name">Health Sciences Child Theme</message>
-	<message key="plugins.themes.healthsciences-child.description">This theme was made by Digipragma to RCPC, its a Health Sciences child theme.</message>
+	<message key="plugins.themes.healthsciences-child.description">This theme is a Health Sciences child theme.</message>
 </locale>
