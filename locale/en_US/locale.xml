@@ -3,6 +3,6 @@
 
 
 <locale name="en_US" full_name="U.S. English">
-	<message key="plugins.themes.healthsciences-child.name">Health Sciences Child Theme</message>
-	<message key="plugins.themes.healthsciences-child.description">This theme is a Health Sciences child theme.</message>
+	<message key="plugins.themes.healthscienceschildtheme.name">Health Sciences Child Theme</message>
+	<message key="plugins.themes.healthscienceschildtheme.description">This theme is a Health Sciences child theme.</message>
 </locale>

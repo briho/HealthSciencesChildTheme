@@ -2,8 +2,11 @@
 <!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
 
 <version>
-
-	<application>healthSciences-child</application>
+<!-- The application value must be _identical_ to the directory     -->
+<!-- name of the plugin theme rendered in lowercase.                -->
+<!-- This is similar to the way that "type" reflects the path,      -->
+<!-- /plugins/themes/...                                            -->
+	<application>healthSciencesChildTheme</application>
 	
 	<type>plugins.themes</type>
 
